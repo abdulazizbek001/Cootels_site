@@ -1,0 +1,106 @@
+/*============================= ROOM START =============================*/
+
+.room {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 160px;
+}
+
+.room_left_top-text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #424f7b;
+    margin-bottom: 12px;
+}
+
+.room_left_title {
+    width: 379px;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 150%;
+    letter-spacing: -0.01em;
+    text-align: center;
+    color: #192252;
+    margin-bottom: 24px;
+}
+
+.room_left_center-text {
+    width: 333px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #848fac;
+    margin-bottom: 32px;
+}
+
+.room_left_box {
+    display: flex;
+    align-items: center;
+    gap: 0 24px;
+}
+
+.room_left_bottom-text {
+    font-weight: 500;
+    font-size: 16px;
+    color: #0e1734;
+}
+
+.room_right-btn {
+    position: relative;
+    right: -207px;
+    padding: 30px 36px;
+    width: 588px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.07);
+    background-color: #fff;
+    border: none;
+    margin-bottom: 24px;
+}
+
+.room_right-btn div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.room_right-btn_title {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    text-align: center;
+    color: #424f7b;
+    margin-bottom: 24px;
+}
+
+.room-right-btn {
+    width: 40px;
+    height: 40px;
+    background-color: #ffece2;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    border: none;
+}
+
+.room-right-btn2 {
+    width: 40px;
+    height: 40px;
+    background-color:  #ff620a;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    border: none;
+}
+
+.room_right-btn p {
+    width: 447px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #848fac;
+}
+
+/*============================= ROOM END =============================*/

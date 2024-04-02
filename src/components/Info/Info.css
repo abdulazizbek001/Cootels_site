@@ -1,0 +1,14 @@
+/*============================= INFO START =============================*/
+
+.info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+
+.info2 {
+    margin-bottom: 174px;
+}
+
+/*============================= INFO END =============================*/

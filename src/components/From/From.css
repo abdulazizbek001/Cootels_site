@@ -1,0 +1,45 @@
+/*============================= FROM START =============================*/
+
+.from h3 {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 150%;
+    letter-spacing: -0.01em;
+    text-align: center;
+    color: #192252;
+    margin-bottom: 62px;
+}
+
+.from_img1 {
+    margin: 0 auto;
+    display: block;
+}
+
+.from p {
+    margin: 0 auto;
+    margin-top: 44px;
+    margin-bottom: 40px;
+    width: 760px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    text-align: center;
+    color: #848fac;
+}
+
+.from h6 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    text-align: center;
+    color: #192252;
+    margin-bottom: 24px;
+}
+
+.from_img2 {
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 80px;
+}
+
+/*============================= FROM END =============================*/

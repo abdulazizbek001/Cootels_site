@@ -1,0 +1,59 @@
+/*============================= CHOOSE START =============================*/
+
+.choose_title {
+    width: 420px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.choose_text {
+    margin: 0 auto;
+    width: 570px;
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.choose_btn {
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 88px;
+}
+
+.choose-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0 24px;
+    margin-bottom: 158px;
+}
+
+.choose-list img {
+    margin-bottom: 32px;
+}
+
+.choose-list-title {
+    margin-bottom: 16px;
+    font-size: 24px;
+}
+
+.choose-list-text {
+    width: 370px;
+    color: #848fac;
+    text-align: start;
+    font-size: 18px;
+    margin-bottom: 32px;
+}
+
+.choose-link {
+    width: 129px;
+    display: flex;
+    align-items: baseline;
+    gap: 0 14px;
+    font-size: 18px;
+    color: #424F7B;
+}
+
+/*============================= CHOOSE END =============================*/
